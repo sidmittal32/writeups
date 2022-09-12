@@ -5,7 +5,7 @@ Forensics
 There are some secrets on this phone image. Please find the flag!<br>
 https://csaw-22-main-bucket.s3.amazonaws.com/android_forensics_easy.zip[https://csaw-22-main-bucket.s3.amazonaws.com/android_forensics_easy.zip]
 ## Approach
-Using the ``tsk_recover`` command under sleuthkit[https://www.sleuthkit.org/] I was able to recover all the files in the phone image.
+Using the ``tsk_recover`` command under [sleuthkit](https://www.sleuthkit.org/) I was able to recover all the files in the phone image.
 
 ```
 siddharth@siddharth-pc:~/Desktop/Cryptonite Tasks/CSAW$ tsk_recover -i raw -o 63 -e android_forensics_easy.dd temp/
