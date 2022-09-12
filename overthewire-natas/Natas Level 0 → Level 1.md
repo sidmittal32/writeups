@@ -1,7 +1,7 @@
 # Natas Level 0 → Level 1
 ## Problem Description
-Username: natas1
-URL:      http://natas1.natas.labs.overthewire.org
+Username: natas1 <br>
+URL: http://natas1.natas.labs.overthewire.org
 ## Approach
 
 ```
