@@ -1,6 +1,6 @@
 # Natas Level 1 → Level 2
 ## Problem Description
-Username: natas2
+Username: natas2 <br>
 URL: http://natas2.natas.labs.overthewire.org
 ## Approach
 In the source code I found link for an image [pixel.png](http://natas2.natas.labs.overthewire.org/files/pixel.png). Going to [files](http://natas2.natas.labs.overthewire.org/files/) I was able to find **user.txt**.
