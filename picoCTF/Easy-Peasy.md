@@ -11,7 +11,7 @@ python3 -c "print('\x00'*(50000-32)+'\n'+'\x00'*32)" | nc mercury.picoctf.net 36
 
 Then I used CyberChef to produce the flag.<br>
 
-![CyberChef]([./CyberChef.png](https://github.com/caligo-phantom/writeups/blob/main/picoCTF/assets/CyberChef.png))
+![CyberChef](https://github.com/caligo-phantom/writeups/blob/main/picoCTF/assets/CyberChef.png)
 
 ## Key
 picoCTF{7904ff830f1c5bba8f763707247ba3e1}
