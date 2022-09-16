@@ -1,2 +1,2 @@
 # writeup
-writeups of challenges I solved :blush:
+writeups of challenges I attempted
