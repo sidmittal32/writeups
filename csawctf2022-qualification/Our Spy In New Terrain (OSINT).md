@@ -6,7 +6,7 @@ It is up to you to determine who The Enemy is going to attack next and when they
 ## Approach
 I checked out DarkRoom8109's twitter profile and found he joined twitter on **08/2022** and I also found his github username **spyduhman**.<br>
 Checking out spyduhman's github profile I found that **log.txt** contains all the conversations between the enemy and the evil spy.<br>
-Checking out his commits I found that he deleted log.txt and it contained the link ![bit.ly/evilevilinfo](bit.ly/evilevilinfo).<br>
+Checking out his commits I found that he deleted log.txt and it contained the link [bit.ly/evilevilinfo](bit.ly/evilevilinfo).<br>
 The website had an audio file **Assignment.wav** which was in morse. Converting it from morse I found the following:<br>
 
 ```
