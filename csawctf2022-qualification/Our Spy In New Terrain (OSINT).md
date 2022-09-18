@@ -17,7 +17,7 @@ HELIHELLO EVIL AGENT YOUR NEXT TARGET IS A BANK THE BANK'S BIN NUMBER IS 452234 
 ```
 
 Checking out the bank's bin number I found that the next target's bank is **TORONTO-DOMINION BANK**. Toronto-Dominion Bank's International Swift Code is **TDOMCATTTOR**.<br>
-Visiting [bit.ly/osintsec](bit.ly/osintsec) I put TDOMCATTTOR as password the reveal an image which when I took the screenshot of found the crime to be **Copyright Infringement** and voila!
+Visiting [bit.ly slash osintsec](bit.ly/osintsec) I put TDOMCATTTOR as password the reveal an image which when I took the screenshot of found the crime to be **Copyright Infringement** and voila!
 
 ```
 siddharth@siddharth-pc:~$ nc misc.chal.csaw.io 5005
