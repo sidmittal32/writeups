@@ -37,6 +37,8 @@ Image Size                      : 2560x1598
 Megapixels                      : 4.1
 ```
 
+> ExifTool is a free and open-source software program for reading, writing, and manipulating image, audio, video, and PDF metadata.
+
 Decrypting `cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9` from base64 to get the flag.
 
 ## Flag
